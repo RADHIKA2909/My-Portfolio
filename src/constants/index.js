@@ -168,7 +168,7 @@ import {
     {
       testimonial:
         "Radhika is a fast learner and does all her work before deadlines. Keep up this same pace, you'll acheive great heights.",
-      name: "Ramit Manohar Kaul",
+      name: "Ramit Kaul",
       designation: "Team Lead",
       company: "TestAing/AiEnsured",
       image: testaing,
@@ -207,6 +207,10 @@ import {
           color: "blue-text-gradient",
         },
         {
+          name: " angular_material",
+          color: "green-text-gradient",
+        },
+        {
           name: "JSON_server_integration",
           color: "pink-text-gradient",
         },
@@ -233,7 +237,7 @@ import {
         },
       ],
       image: portfolio,
-      source_code_link: "https://github.com/RADHIKA2909/",
+      source_code_link: "https://github.com/RADHIKA2909/My-Portfolio",
     },
   ];
   
